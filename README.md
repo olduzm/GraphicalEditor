@@ -64,4 +64,4 @@ JWJJJ
 JJJJJ
 JJJJJ
 
-[1] (http://www.programming-challenges.com/pg.php?page=downloadproblem&probid=110105&format=html)
+\[1\][http://www.programming-challenges.com/pg.php?page=downloadproblem&probid=110105&format=html] (http://www.programming-challenges.com/pg.php?page=downloadproblem&probid=110105&format=html)
