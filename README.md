@@ -4,9 +4,8 @@ Graphical Editor
 This is a simple solution to Graphical Editor problem in programming challenges implemented in Scala.
 
 
-Problem Description
+Problem Description [(Source)] (http://www.programming-challenges.com/pg.php?page=downloadproblem&probid=110105&format=html)
 -------------------
-[(Source)] (http://www.programming-challenges.com/pg.php?page=downloadproblem&probid=110105&format=html)
 
 Graphical editors such as Photoshop allow us to alter bit-mapped images in the same way that text editors allow us to modify documents. Images are represented as an M x N array of pixels, where each pixel has a given color.
 
